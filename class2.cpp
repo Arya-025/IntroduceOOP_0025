@@ -26,3 +26,9 @@ public:
     }
 };
 
+int main()
+{
+    persegi_panjang pp;
+    pp.input_data();
+    
+}
