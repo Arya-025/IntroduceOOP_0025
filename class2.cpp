@@ -20,6 +20,9 @@ public:
     {
         cout << "tampilkan luas = " << luas << endl;
     }
-   
+    void hitung_luas()
+    {
+        luas = panjang + lebar;
+    }
 };
 
