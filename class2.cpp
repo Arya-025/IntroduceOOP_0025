@@ -8,6 +8,18 @@ private:
     int lebar;
     int luas;
 
-
+public:
+    void input_data()
+    {
+        cout << "masukan panjang : ";
+        cin >> panjang;
+        cout << "masukan lebar : ";
+        cin >> lebar;
+    }
+    void output_data()
+    {
+        cout << "tampilkan luas = " << luas << endl;
+    }
+   
 };
 
