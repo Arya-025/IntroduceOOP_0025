@@ -26,4 +26,7 @@ public:
     }
 };
 
-
+int main()
+{
+    
+}
